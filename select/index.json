@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ローズストライク",
+  "base_artist": "EasyPop",
+  "createdAt": "2026-02-15T04:32:58.569510Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ローズストライク",
+      "artist": "EasyPop",
+      "has_synced": false,
+      "path": "select/pl_01_ローズストライク_EasyPop.txt"
+    }
+  ]
+}
